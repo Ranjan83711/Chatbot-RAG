@@ -5,7 +5,7 @@ chromadb==0.4.10
 PyPDF2==3.0.1
 <<<<<<< HEAD
 tiktoken
-python-dotenv==1.0.0
+python-dotenv
 
 -e .
 =======
