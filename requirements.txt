@@ -3,4 +3,5 @@ langchain==0.0.300
 langchain-openai==0.0.2
 chromadb==0.4.10
 PyPDF2==3.0.1
+tiktoken
 python-dotenv==1.0.0
