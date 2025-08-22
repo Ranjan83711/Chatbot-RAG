@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.* 
+
+# VS Code
+.vscode/
+
+# Data & artifacts
+data/
+pdfs/
+outputs/
+models/
+checkpoints/
+*.log
+
+# Node (if you have a UI)
+node_modules/
+dist/
+build/
